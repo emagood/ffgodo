@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto playGodot utiliza FFmpeg para la manipulación de medios.
+Proyecto ffgodo utiliza FFmpeg para la manipulación de medios.
 
 ### Dependencias
 
